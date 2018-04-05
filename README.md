@@ -1,2 +1,4 @@
 # hexagon
-一个奇妙的六边形
+
+
+a magic hexagon
